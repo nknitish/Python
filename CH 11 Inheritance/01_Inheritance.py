@@ -8,7 +8,7 @@ class Programmer :
         self.salary= salary
     
     def show(self):
-        print({self.name, self.salary})
+        print(self.name, self.salary)
 
 
 # Inherit Class

@@ -4,6 +4,8 @@
 # Type Checking
 
 
+# _salary is a private variable, which means it should not be accessed directly from outside the class. Instead, we use getter and setter methods to access and modify the value of _salary.
+
 class Employee:
     def __init__(self):
         self._salary = 0

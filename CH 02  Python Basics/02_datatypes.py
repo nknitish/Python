@@ -14,6 +14,23 @@ is_active = True
 # None
 none_var = None
 
+# list
+my_list = [1, 2, 3, 4, 5];
+
+# tuple
+mytuple = (1, 2, 3, 4, 5);
+
+# set 
+myset = {1, 2, 3, 4, 5};
+
+# dictionary
+mydict = {"name": "Nitish", "age": 25, "is_active": True}
+
+
+
+
+
+
 
 # Print the data types of the variables
 print(type(num))

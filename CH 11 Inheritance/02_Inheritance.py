@@ -10,7 +10,8 @@ class Employee:
 
 class Programmer:
     def code(self):
-        print("Can write Python code")
+        print(f"{self.name} can write Python code")
+
 
 
 class TeamLead(Employee, Programmer):

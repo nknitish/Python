@@ -9,4 +9,4 @@ class Programmer :
 
 emp1= Programmer("Nitish", "30L" , 504841)
 
-print({emp1.company, emp1.name, emp1.salary})
+print(emp1.company, emp1.name, emp1.salary, emp1.pin)

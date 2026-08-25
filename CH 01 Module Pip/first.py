@@ -11,8 +11,6 @@ print(joke)
 """
 This is mutiple line comment
 to explain the code
-in detail
-and to make it more readable
 """
 
 

@@ -37,5 +37,8 @@ emp1.greeting()
 # staticmethod
 emp1.greet()
 
+# Static method can be called using class name also 
+Employee.greet()
+
 
 
