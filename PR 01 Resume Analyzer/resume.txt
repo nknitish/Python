@@ -1,0 +1,56 @@
+NITISH KUMAR
+Senior Frontend / Full Stack Engineer
+
+PROFESSIONAL SUMMARY
+
+Software Engineer with 5.6 years of experience building scalable web
+applications and SaaS platforms. Strong experience in frontend development
+with React, Next.js, TypeScript and JavaScript, along with backend experience
+using Node.js and REST APIs.
+
+TECHNICAL SKILLS
+
+Frontend:
+React
+Next.js
+JavaScript
+TypeScript
+HTML
+CSS
+Redux
+TanStack Query
+GraphQL
+
+Backend:
+Node.js
+REST APIs
+
+Tools:
+Git
+GitHub
+Docker
+Jest
+CI/CD
+
+EXPERIENCE
+
+Senior Software Engineer
+Built scalable customer-facing applications using React, Next.js and
+TypeScript. Designed reusable UI components and improved application
+performance through memoization, virtualization and optimized API calls.
+
+Worked on real-time messaging applications using WebSockets and Node.js.
+
+Implemented REST APIs and integrated GraphQL APIs with frontend applications.
+
+Worked with CI/CD pipelines and Docker-based development environments.
+
+PROJECTS
+
+Real-Time Chat Platform
+Built a real-time customer communication platform using React, TypeScript,
+Node.js and WebSockets.
+
+Resource Management Platform
+Developed enterprise dashboards using React, Next.js, GraphQL and Redux.
+Improved frontend performance and implemented role-based access control.

@@ -1,0 +1,46 @@
+SENIOR SOFTWARE ENGINEER — FULL STACK
+
+We are looking for a Senior Software Engineer to build scalable web
+applications and backend services.
+
+RESPONSIBILITIES
+
+- Build modern web applications using React and TypeScript.
+- Develop backend services and REST APIs using Node.js.
+- Build APIs and microservices using Python and FastAPI.
+- Design and integrate cloud-based applications using AWS.
+- Work with PostgreSQL databases.
+- Develop AI-powered features using Large Language Models.
+- Build applications using Retrieval Augmented Generation (RAG).
+- Work with vector databases and embeddings.
+- Develop and integrate REST and GraphQL APIs.
+- Write unit and integration tests.
+- Work with Docker and CI/CD pipelines.
+- Collaborate with product and engineering teams.
+
+REQUIRED SKILLS
+
+React
+TypeScript
+JavaScript
+Node.js
+Python
+FastAPI
+AWS
+PostgreSQL
+REST APIs
+GraphQL
+Docker
+CI/CD
+LLM
+RAG
+Vector Database
+Embeddings
+
+NICE TO HAVE
+
+Next.js
+Redis
+Kubernetes
+LangChain
+OpenAI API
