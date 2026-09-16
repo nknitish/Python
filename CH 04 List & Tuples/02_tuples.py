@@ -26,8 +26,16 @@ print(False in my_tuple)  # Output: True
 print("kiwi" not in my_tuple)  # Output: True
 print(my_tuple * 2)  # Output: ('apple', 'banana', 'cherry', 1, 2, 3, True, False, None, 3.14, 'grape', 'apple', 'banana', 'cherry', 1, 2, 3, True, False, None, 3.14, 'grape') 
 
+# Sorting a tuple
+# Tuples do not have a sort() method because they are immutable.
+# We use sorted() to get a sorted list or a new tuple.
+num_tuple = (8, 3, 9, 1)
+print("Original tuple:", num_tuple)
+print("Sorted list:", sorted(num_tuple))
+print("Sorted tuple:", tuple(sorted(num_tuple)))
 
-
+# list.sort() works only on lists.
+# num_tuple.sort() -> this will raise an error because tuples are immutable.
 
 # In Python, tuples are immutable, so they have very few built-in methods compared to lists.
 

@@ -50,9 +50,40 @@ print(my_list)  # Output: []
 numbers = [1, 2, 3, 3,2,1,4,5]
 
 #sort() method sorts the list in ascending order.
+# It changes the original list permanently.
 numbers.sort()  # Sorting the list in ascending order
 print(numbers)  # Output: [1, 1, 2, 2, 3, 3, 4, 5]
+
+# sorted() function creates a new sorted list.
+# It does not change the original list.
+new_numbers = [7, 2, 9, 1, 5]
+print(sorted(new_numbers))  # Output: [1, 2, 5, 7, 9]
+print(new_numbers)  # Output: [7, 2, 9, 1, 5]
 
 #reverse() method reverses the order of the list.
 numbers.reverse()  # Reversing the order of the list
 print(numbers)  # Output: [5, 4, 3, 3, 2, 2, 1, 1]
+
+# Copying a list
+# A shallow copy creates a new list object, but the nested objects are still shared.
+# A deep copy creates a fully independent copy of the list and all nested objects.
+
+import copy
+
+nested_list = [1, 2, [3, 4]]
+shallow_copy = nested_list.copy()
+deep_copy = copy.deepcopy(nested_list)
+
+# Modify the inner list in the original
+nested_list[2].append(5)
+
+print("Original list:", nested_list)
+print("Shallow copy:", shallow_copy)
+print("Deep copy:", deep_copy)
+
+# Another way to create a shallow copy is using slicing
+sliced_copy = nested_list[:]
+print("Sliced copy:", sliced_copy)
+
+# Note: shallow copy still shares nested items, so changing the nested list affects the copy.
+# Deep copy avoids this by duplicating nested objects as well.
