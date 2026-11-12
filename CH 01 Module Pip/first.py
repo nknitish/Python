@@ -36,7 +36,7 @@ The world begins again, anew.
 So pause a while and simply see,
 The quiet gifts of sky and tree.
 For hidden in the morning's glow,
-Are wonders more than we may know
+Are wonders more than we may know how to talk
 """)
 
 
